@@ -1,6 +1,6 @@
 Aquest es un fitxer de texte simple per practicar els comandaments de Git
 
-
+S'ha tornat a canviar aquest texte a la branca master, per practicar els comandaments de Git
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis ultricies odio at sollicitudin. Phasellus venenatis tincidunt augue, vel blandit dolor aliquam a. Nam et diam ornare, commodo orci eu, malesuada ex. Morbi at consectetur dui. Mauris non ligula luctus, posuere sem eget, vehicula nisi. Ut placerat odio eu mi sagittis, id scelerisque diam condimentum. Aenean sodales quam consectetur, tincidunt nulla sed, pretium metus. Praesent vestibulum ante eu accumsan ultricies. Donec aliquam, velit sed consequat placerat, metus sem fringilla velit, vitae vehicula metus purus in erat. Nam tempus sem et metus porttitor molestie. Fusce sollicitudin commodo magna, gravida elementum nisl laoreet vitae.
 
 Phasellus accumsan risus ligula, non sollicitudin turpis finibus quis. Sed nec accumsan risus. Sed quis semper velit, et faucibus lorem. Etiam luctus diam nec sapien dictum porta. Sed condimentum sapien eget nibh ullamcorper, a molestie nisl pellentesque. Nulla facilisi. Curabitur luctus vulputate faucibus. Cras at orci in urna luctus finibus. Cras ultrices sem orci.
